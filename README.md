@@ -15,3 +15,5 @@ A demanda é apresentar os seguintes indicadores:
 8.Faturamento total por continente
 
 Esse projeto foi desenvolvido durante a aula "Curso Power BI para Iniciantes" disponível no canal Hashtag Treinamentos (https://www.youtube.com/watch?v=Vh6FS-pqjsM&t=4920s).
+
+Link do dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTNkZTI2MDktOWJmZi00M2U4LWE0MGEtMDgzNjkxZTAzNmQ2IiwidCI6ImU5ZmRmMTAxLWUwNTgtNGE1NC04OTcyLTE0YTk1NDVkM2M5OSJ9 
